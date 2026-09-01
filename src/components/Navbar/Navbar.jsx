@@ -59,7 +59,7 @@ const Navbar = () => {
       <div className="container navbar__inner">
         <a href="#home" className="navbar__logo" aria-label="Go to home section">
           <span className="navbar__logo-bracket">{'<'}</span>
-          Aarav<span className="text-gradient">.dev</span>
+          sarojini<span className="text-gradient">.dev</span>
           <span className="navbar__logo-bracket">{'/>'}</span>
         </a>
 
