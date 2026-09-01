@@ -180,16 +180,16 @@ export const services = [
 
 export const education = [
   {
-    degree: 'B.Tech in Computer Science',
-    college: 'RV College of Engineering, Bengaluru',
-    year: '2019 — 2023',
+    degree: 'B.Tech in Artificial intelligence and machine learning',
+    college: 'M.S Ramaiah university of applied sciences, Bengaluru',
+    year: '2025 — 2029',
     achievement: 'Graduated with First Class Honours, CGPA 8.7/10.',
   },
   {
-    degree: 'Higher Secondary (PCM)',
-    college: 'Delhi Public School, Bengaluru',
-    year: '2017 — 2019',
-    achievement: 'Scored in the 95th percentile; school topper in Computer Science.',
+    degree: 'Higher Secondary (PCMB)',
+    college: 'govt PU College adugodi, Bengaluru',
+    year: '2024 — 2025',
+    achievement: 'Scored in the 91 percentage; collage topper in Science department.',
   },
 ];
 
