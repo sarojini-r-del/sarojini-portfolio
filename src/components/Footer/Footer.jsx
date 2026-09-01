@@ -18,7 +18,7 @@ const Footer = () => {
         <div className="footer__brand">
           <a href="#home" className="navbar__logo footer__logo">
             <span className="navbar__logo-bracket">{'<'}</span>
-            Aarav<span className="text-gradient">.dev</span>
+            sarojini<span className="text-gradient">.dev</span>
             <span className="navbar__logo-bracket">{'/>'}</span>
           </a>
           <p className="footer__tagline">Building thoughtful software, one project at a time.</p>
