@@ -1,7 +1,7 @@
 // Centralized content for the portfolio — edit this file to update the site.
 
 export const personalInfo = {
-  name: 'sarojini portfolio',
+  name: 'sarojini R',
   roles: ['Web Developer', 'Frontend Developer', 'React Developer', 'Java Full Stack Developer'],
   intro:
     "I build fast, accessible web applications end-to-end — from React interfaces to Java Spring Boot services. I care about clean architecture, thoughtful UX, and shipping things that hold up in production.",
