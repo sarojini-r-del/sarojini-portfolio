@@ -5,11 +5,11 @@ export const personalInfo = {
   roles: ['Web Developer', 'Frontend Developer', 'React Developer', 'Java Full Stack Developer'],
   intro:
     "I build fast, accessible web applications end-to-end — from React interfaces to Java Spring Boot services. I care about clean architecture, thoughtful UX, and shipping things that hold up in production.",
-  email: 'aarav.sharma.dev@gmail.com',
-  phone: '+91 98765 43210',
+  email: 'rsarojini166@gmail.com',
+  phone: '+91 90352 64319',
   location: 'Bengaluru, India',
   github: 'https://github.com/sarojini-r-del',
-  linkedin: 'https://linkedin.com/in/aaravsharma',
+  linkedin: 'https://linkedin.com/in/sarojini',
   resumeUrl: '/resume.pdf',
 };
 
