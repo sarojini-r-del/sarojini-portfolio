@@ -1,4 +1,4 @@
-# Aarav Sharma — Developer Portfolio
+# sarojini R — Developer Portfolio
 
 A modern, fully responsive portfolio site built with React + Vite, Framer Motion, and React Icons. Light theme by default with a dark mode toggle (persisted in localStorage).
 
